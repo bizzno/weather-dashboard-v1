@@ -1,1 +1,4 @@
-# weather-dashboard-v1
+# Weather Dashboard
+
+Real-time weather dashboard application with location-based forecasts.
+Update 2 on 2014-01-09 02:39:56
