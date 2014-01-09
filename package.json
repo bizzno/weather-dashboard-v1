@@ -1,0 +1,9 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
+Update 1 on 2014-01-09 01:34:26
