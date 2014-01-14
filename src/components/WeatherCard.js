@@ -1,0 +1,15 @@
+// Weather display component
+import React from 'react';
+
+export default function WeatherCard({ data }) {
+  if (!data) return <div>Loading...</div>;
+
+  return (
+    <div className="weather-card">
+      <h2>{data.city}</h2>
+      <div className="temperature">{data.temp}°C</div>
+      <div className="condition">{data.condition}</div>
+    </div>
+  );
+}
+Update 17 on 2014-01-14 23:15:15
