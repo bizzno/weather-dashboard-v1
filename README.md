@@ -1,263 +1,59 @@
 # Weather Dashboard
 
 Real-time weather dashboard application with location-based forecasts.
-Update 2 on 2014-01-09 02:39:56
-Update 12 on 2014-01-14 06:30:47
-Update 18 on 2014-01-14 04:29:31
-Update 20 on 2014-01-14 16:26:49
-Update 21 on 2014-01-14 19:33:12
-Update 22 on 2014-01-14 18:04:10
-Update 23 on 2014-01-14 15:50:07
-Update 48 on 2014-01-23 01:05:38
-Update 51 on 2014-01-31 06:05:48
-Update 55 on 2014-02-04 17:21:33
-Update 59 on 2014-02-04 21:28:25
-Update 60 on 2014-02-04 18:10:03
-Update 68 on 2014-02-14 00:07:46
-Update 80 on 2014-02-16 02:11:56
-Update 87 on 2014-02-16 05:25:44
-Update 92 on 2014-02-18 03:03:53
-Update 101 on 2014-02-20 17:19:32
-Update 102 on 2014-02-20 11:10:32
-Update 103 on 2014-02-21 11:57:03
-Update 104 on 2014-02-21 01:13:34
-Update 114 on 2014-02-21 02:39:52
-Update 124 on 2014-02-25 16:30:19
-Update 150 on 2014-03-06 21:17:57
-Update 157 on 2014-03-07 20:50:10
-Update 161 on 2014-03-07 06:14:56
-Update 163 on 2014-03-08 18:32:47
-Update 170 on 2014-03-11 18:49:56
-Update 171 on 2014-03-11 19:16:58
-Update 173 on 2014-03-11 06:22:11
-Update 174 on 2014-03-11 22:32:02
-Update 179 on 2014-03-11 01:38:05
-Update 180 on 2014-03-11 18:37:34
-Update 183 on 2014-03-12 10:21:11
-Update 187 on 2014-03-20 01:52:49
-Update 195 on 2014-03-26 08:00:46
-Update 207 on 2014-04-03 14:04:13
-Update 211 on 2014-04-05 22:20:33
-Update 214 on 2014-04-05 03:15:37
-Update 219 on 2014-04-10 15:22:14
-Update 232 on 2014-04-13 19:41:13
-Update 235 on 2014-04-14 12:38:30
-Update 236 on 2014-04-14 19:25:08
-Update 239 on 2014-04-14 05:52:03
-Update 247 on 2014-04-17 22:13:38
-Update 249 on 2014-04-17 06:42:12
-Update 254 on 2014-04-18 15:42:24
-Update 256 on 2014-04-18 17:59:40
-Update 270 on 2014-04-25 17:22:07
-Update 278 on 2014-04-27 13:45:28
-Update 282 on 2014-04-28 16:07:33
-Update 291 on 2014-04-28 21:57:03
-Update 293 on 2014-04-28 11:43:21
-Update 298 on 2014-04-29 14:41:02
-Update 306 on 2014-04-30 06:10:12
-Update 315 on 2014-05-06 15:06:09
-Update 316 on 2014-05-06 20:28:29
-Update 320 on 2014-05-08 05:09:29
-Update 321 on 2014-05-08 01:34:01
-Update 322 on 2014-05-08 03:23:24
-Update 323 on 2014-05-08 19:54:11
-Update 329 on 2014-05-09 21:35:41
-Update 339 on 2014-05-11 21:48:03
-Update 347 on 2014-05-11 23:59:25
-Update 359 on 2014-05-22 19:54:45
-Update 362 on 2014-05-22 07:43:13
-Update 371 on 2014-06-02 21:47:03
-Update 372 on 2014-06-02 11:32:08
-Update 377 on 2014-06-06 07:47:12
-Update 379 on 2014-06-06 06:45:13
-Update 380 on 2014-06-06 10:59:11
-Update 388 on 2014-06-26 01:57:14
-Update 391 on 2014-06-26 08:02:42
-Update 393 on 2014-06-26 23:29:23
-Update 398 on 2014-06-26 07:57:18
-Update 401 on 2014-07-04 23:28:25
-Update 408 on 2014-07-09 09:19:24
-Update 410 on 2014-07-09 08:55:27
-Update 428 on 2014-07-17 09:27:48
-Update 432 on 2014-07-20 02:24:32
-Update 433 on 2014-07-20 19:07:37
-Update 435 on 2014-07-20 21:02:10
-Update 437 on 2014-07-20 07:12:02
-Update 444 on 2014-07-22 17:04:59
-Update 446 on 2014-07-22 09:38:26
-Update 447 on 2014-07-22 05:29:26
-Update 458 on 2014-07-24 19:55:38
-Update 469 on 2014-07-28 19:34:06
-Update 474 on 2014-07-28 09:47:33
-Update 480 on 2014-07-29 21:33:18
-Update 486 on 2014-07-29 14:12:46
-Update 494 on 2014-07-30 20:30:27
-Update 497 on 2014-08-01 15:29:35
-Update 502 on 2014-08-01 12:44:45
-Update 506 on 2014-08-04 13:26:22
-Update 520 on 2014-08-13 21:43:39
-Update 521 on 2014-08-13 23:25:12
-Update 524 on 2014-08-13 19:37:38
-Update 527 on 2014-08-13 14:10:43
-Update 528 on 2014-08-13 23:41:20
-Update 531 on 2014-08-13 19:17:23
-Update 544 on 2014-08-21 13:04:45
-Update 552 on 2014-08-27 11:06:48
-Update 557 on 2014-08-28 06:39:34
-Update 558 on 2014-08-28 22:05:23
-Update 561 on 2014-08-28 07:03:26
-Update 563 on 2014-08-31 13:55:50
-Update 564 on 2014-08-31 05:25:03
-Update 567 on 2014-08-31 22:38:41
-Update 570 on 2014-08-31 18:34:57
-Update 573 on 2014-08-31 18:15:30
-Update 576 on 2014-09-01 19:43:54
-Update 588 on 2014-09-22 10:26:06
-Update 592 on 2014-09-23 11:10:46
-Update 593 on 2014-09-23 06:52:03
-Update 606 on 2014-09-25 01:52:47
-Update 608 on 2014-09-25 15:50:11
-Update 618 on 2014-10-05 03:02:23
-Update 624 on 2014-10-05 01:01:59
-Update 626 on 2014-10-16 19:33:21
-Update 631 on 2014-10-17 11:13:51
-Update 633 on 2014-10-17 00:46:58
-Update 634 on 2014-10-17 05:09:16
-Update 638 on 2014-10-17 00:57:16
-Update 662 on 2014-10-24 01:51:46
-Update 664 on 2014-10-24 15:52:07
-Update 667 on 2014-10-27 14:12:10
-Update 670 on 2014-10-30 21:51:51
-Update 675 on 2014-10-30 16:50:23
-Update 681 on 2014-10-31 13:28:43
-Update 687 on 2014-10-31 20:15:32
-Update 692 on 2014-11-01 13:43:33
-Update 695 on 2014-11-01 07:24:11
-Update 697 on 2014-11-01 20:49:49
-Update 699 on 2014-11-01 01:37:19
-Update 708 on 2014-11-04 13:29:36
-Update 724 on 2014-11-05 04:37:16
-Update 727 on 2014-11-05 09:06:08
-Update 729 on 2014-11-05 14:50:17
-Update 740 on 2014-11-08 05:41:05
-Update 750 on 2014-11-09 06:08:12
-Update 761 on 2014-11-19 19:03:02
-Update 763 on 2014-11-22 18:02:14
-Update 767 on 2014-11-22 12:15:15
-Update 773 on 2014-11-25 15:31:14
-Update 784 on 2014-11-26 00:49:53
-Update 797 on 2014-11-30 07:25:19
-Update 804 on 2014-12-03 01:43:48
-Update 808 on 2014-12-03 02:13:28
-Update 809 on 2014-12-03 01:31:16
-Update 810 on 2014-12-03 20:56:12
-Update 813 on 2014-12-03 00:38:26
-Update 817 on 2014-12-07 19:00:16
-Update 822 on 2014-12-08 06:36:39
-Update 831 on 2014-12-12 15:52:02
-Update 834 on 2014-12-12 22:05:16
-Update 849 on 2014-12-18 23:53:06
-Update 855 on 2014-12-24 12:00:36
-Update 857 on 2014-12-24 20:19:47
-Update 858 on 2014-12-24 08:18:08
-Update 862 on 2014-12-24 21:05:14
-Update 865 on 2014-12-24 17:34:16
-Update 870 on 2014-12-29 03:44:08
-Update 878 on 2014-12-29 07:52:32
-Update 886 on 2015-01-02 06:25:51
-Update 889 on 2015-01-03 01:55:11
-Update 894 on 2015-01-04 04:15:33
-Update 903 on 2015-01-06 14:48:13
-Update 904 on 2015-01-06 18:01:43
-Update 907 on 2015-01-06 11:10:35
-Update 913 on 2015-01-07 07:04:51
-Update 914 on 2015-01-07 15:35:44
-Update 915 on 2015-01-07 01:43:01
-Update 916 on 2015-01-07 17:03:06
-Update 917 on 2015-01-07 21:33:44
-Update 926 on 2015-01-08 13:09:28
-Update 939 on 2015-01-13 11:27:09
-Update 943 on 2015-01-14 20:42:35
-Update 946 on 2015-01-15 19:43:44
-Update 948 on 2015-01-15 02:14:01
-Update 959 on 2015-01-17 19:46:51
-Update 973 on 2015-01-23 01:53:56
-Update 974 on 2015-01-23 23:54:50
-Update 986 on 2015-01-28 22:13:41
-Update 989 on 2015-01-28 07:53:56
-Update 994 on 2015-01-29 04:14:38
-Update 995 on 2015-01-29 11:31:26
-Update 999 on 2015-01-29 11:32:26
-Update 1002 on 2015-01-29 22:48:00
-Update 1004 on 2015-01-30 00:47:23
-Update 1011 on 2015-02-02 08:39:24
-Update 1012 on 2015-02-02 19:35:18
-Update 1016 on 2015-02-04 10:53:24
-Update 1017 on 2015-02-04 20:15:13
-Update 1018 on 2015-02-04 13:04:27
-Update 1021 on 2015-02-09 14:08:35
-Update 1029 on 2015-02-10 19:44:55
-Update 1031 on 2015-02-11 21:42:07
-Update 1034 on 2015-02-11 17:56:11
-Update 1035 on 2015-02-11 07:55:20
-Update 1037 on 2015-02-11 17:50:57
-Update 1040 on 2015-02-11 14:12:28
-Update 1044 on 2015-02-13 08:53:14
-Update 1048 on 2015-02-16 21:05:31
-Update 1051 on 2015-02-16 17:42:40
-Update 1059 on 2015-02-17 03:44:18
-Update 1072 on 2015-02-28 17:56:15
-Update 1079 on 2015-03-02 15:53:27
-Update 1083 on 2015-03-02 11:31:39
-Update 1085 on 2015-03-09 01:46:37
-Update 1094 on 2015-03-10 21:08:06
-Update 1095 on 2015-03-10 06:10:19
-Update 1097 on 2015-03-10 05:40:27
-Update 1098 on 2015-03-10 04:14:27
-Update 1113 on 2015-03-21 20:24:11
-Update 1118 on 2015-03-21 02:12:55
-Update 1124 on 2015-03-22 11:24:48
-Update 1126 on 2015-03-22 12:12:28
-Update 1133 on 2015-03-25 17:38:51
-Update 1136 on 2015-03-30 15:18:50
-Update 1140 on 2015-03-30 15:08:42
-Update 1146 on 2015-03-30 15:03:08
-Update 1160 on 2015-04-06 03:17:00
-Update 1164 on 2015-04-06 04:08:55
-Update 1165 on 2015-04-06 11:21:22
-Update 1172 on 2015-04-09 23:50:48
-Update 1189 on 2015-04-19 15:16:14
-Update 1191 on 2015-04-19 14:08:41
-Update 1194 on 2015-04-19 11:34:38
-Update 1196 on 2015-04-19 16:47:41
-Update 1197 on 2015-04-19 05:10:10
-Update 1204 on 2015-05-03 03:35:46
-Update 1206 on 2015-05-03 18:45:37
-Update 1210 on 2015-05-03 06:23:34
-Update 1213 on 2015-05-03 17:54:34
-Update 1227 on 2015-05-06 10:50:49
-Update 1231 on 2015-05-06 07:58:21
-Update 1238 on 2015-05-25 13:20:06
-Update 1245 on 2015-05-27 13:50:29
-Update 1250 on 2015-05-27 19:59:33
-Update 1252 on 2015-05-27 18:56:25
-Update 1260 on 2015-06-04 02:26:06
-Update 1262 on 2015-06-04 22:41:45
-Update 1271 on 2015-06-05 12:03:16
-Update 1274 on 2015-06-09 14:22:38
-Update 1275 on 2015-06-09 00:44:31
-Update 1291 on 2015-06-15 16:17:44
-Update 1293 on 2015-06-15 15:35:31
-Update 1300 on 2015-06-17 10:33:15
-Update 1301 on 2015-06-17 15:39:26
-Update 1307 on 2015-06-18 08:59:16
-Update 1311 on 2015-06-19 20:44:05
-Update 1312 on 2015-06-19 11:16:57
-Update 1313 on 2015-06-19 18:05:37
-Update 1314 on 2015-06-29 00:53:21
-Update 1319 on 2015-06-29 01:18:26
-Update 1329 on 2015-06-30 21:41:19
-Update 1330 on 2015-06-30 01:06:03
-Update 1332 on 2015-06-30 11:14:55
-Update 1339 on 2015-07-01 11:08:22
-Update 1341 on 2015-07-03 15:04:21
+
+## Features
+
+- Current weather conditions display
+- 5-day weather forecast
+- Location search and geolocation support
+- Temperature, humidity, and wind speed data
+- Weather icons and visual indicators
+- Responsive design for mobile and desktop
+- Multiple unit systems (Celsius/Fahrenheit)
+
+## Structure
+
+```
+src/
+├── components/    - React UI components (WeatherCard, Forecast)
+├── services/      - Weather API integration
+├── utils/         - Helper functions and formatting
+└── public/        - Static assets and HTML
+```
+
+## Installation
+
+Install dependencies:
+```bash
+npm install
+```
+
+## Usage
+
+Start the development server:
+```bash
+npm start
+```
+
+Build for production:
+```bash
+npm run build
+```
+
+## Configuration
+
+Configure your weather API key in `.env`:
+```
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+```
+
+## Requirements
+
+- Node.js 14.0 or higher
+- React 16.8 or higher
+- Weather API key (OpenWeatherMap or similar)
+
+## License
+
+MIT
